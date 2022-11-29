@@ -1,4 +1,4 @@
-from random import randint 2
+from random import randint
 
 
 def attack(char_name: str, char_class: str) -> str:
